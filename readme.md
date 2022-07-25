@@ -4,7 +4,7 @@ Run a exe  with nt/author system identity
 
 
 
-copy paste and edit from https://www.anquanke.com/post/id/187895
+copy paste and edit from https://www.cnblogs.com/zpchcbd/p/12906322.html
 
 
 
